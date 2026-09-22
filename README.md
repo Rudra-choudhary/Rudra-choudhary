@@ -3,14 +3,14 @@
 ```text
 ┌──────────────────────────────────────────────────────────────────────┐
 │                                                                      │
-│   ██████╗ ██╗   ██╗██████╗ ██████╗  █████╗                          │
-│   ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗                         │
-│   ██████╔╝██║   ██║██║  ██║██████╔╝███████║                         │
-│   ██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██║                         │
-│   ██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║                         │
-│   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝                         │
+│   ██████╗ ██╗   ██╗██████╗ ██████╗  █████╗                           │
+│   ██╔══██╗██║   ██║██╔══██╗██╔══██╗██╔══██╗                          │
+│   ██████╔╝██║   ██║██║  ██║██████╔╝███████║                          │
+│   ██╔══██╗██║   ██║██║  ██║██╔══██╗██╔══██║                          │
+│   ██║  ██║╚██████╔╝██████╔╝██║  ██║██║  ██║                          │
+│   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝                          │
 │                                                                      │
-│   SECURITY ENGINEER  ×  AI STUDENT  ×  BUILDER                      │
+│   CYBER SECURITY  ×  AI   ×  BUILDER                                 │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -18,8 +18,8 @@
 ```bash
 $ ./identify.sh
 
-Name        : Rudra Choudhary
-Role        : Security Engineer / AI Student
+Name        : Rudra Pratap Singh Choudhary
+Role        : Security Engineer 
 University  : Rishihood University
 Focus       : Cybersecurity • AI • Systems • OSINT
 Status      : Building things that should probably have logs
@@ -81,13 +81,13 @@ long_term:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,bash,sql,verilog" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,bash,mysql,verilog" />
 </p>
 
 ### Web & Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,prisma" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase" />
 </p>
 
 ### Security
@@ -117,7 +117,7 @@ long_term:
 ### Infrastructure & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,github,docker,aws,vscode" />
 </p>
 
 ---
@@ -297,7 +297,7 @@ Technology
         Public Policy
 ```
 
-### Astronomy
+### Astronomy and Humanities
 
 Before computers became the obsession, the universe already had my
 attention.
@@ -308,37 +308,15 @@ Still interested in:
 
 ---
 
-# `08 // PHILOSOPHY`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Don't just use the abstraction.                             │
-│  Understand what exists underneath it.                      │
-│                                                              │
-│  Don't just run the tool.                                    │
-│  Understand what the tool actually does.                    │
-│                                                              │
-│  Don't just memorize the exploit.                            │
-│  Understand the vulnerability.                              │
-│                                                              │
-│  Don't just build the project.                               │
-│  Understand the system.                                      │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `09 // GITHUB_STATS`
+# `08 // GITHUB_STATS`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-choudhary&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rudra-choudhary&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rudra-choudhary&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -346,7 +324,7 @@ Still interested in:
 # `10 // ACTIVITY`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rudra-choudhary&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -355,17 +333,14 @@ Still interested in:
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Rudra-choudhary">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+<a href="https://www.linkedin.com/in/rudra-choudhary-b27b41306/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </p>
 
@@ -376,7 +351,7 @@ Still interested in:
 │                                                              │
 │                    CONNECTION ESTABLISHED                    │
 │                                                              │
-│        [ BUILD ]   [ BREAK ]   [ LEARN ]   [ REPEAT ]       │
+│        [ BUILD ]   [ BREAK ]   [ LEARN ]   [ REPEAT ]        │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
