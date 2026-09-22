@@ -36,13 +36,14 @@ My interests sit at the intersection of:
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│   CYBERSECURITY      ████████████████████████  █████   │
-│   ARTIFICIAL INTEL.  ████████████████████      ████    │
-│   SYSTEMS            ██████████████████        ███     │
-│   WEB ENGINEERING    ███████████████           ███     │
-│   OSINT              █████████████████         ███     │
-│   PUBLIC POLICY      █████████████             ██      │
-│   ASTROPHYSICS       ███████████               ██      │
+│   CYBERSECURITY      ████████████████████████           │
+│   ARTIFICIAL INTEL.  ████████████████████               │
+│   PUBLIC POLICY      ██████████████████                 │
+│   WEB ENGINEERING    ███████████████                    │
+│   Cloud              █████████████████                  │
+│   PUBLIC POLICY      █████████████████                  │
+│   ASTROPHYSICS       ███████████                        │
+│   History            ██████████████                     │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -66,12 +67,11 @@ current_mission:
   - Turn experiments into real projects
 
 long_term:
-  - Offensive Security
-  - Defensive Security
   - Security Engineering
-  - Detection & Response
+  - AI security
   - DevSecOps
   - Security Research
+  - Teaching
 ```
 
 ---
